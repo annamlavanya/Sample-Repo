@@ -9,5 +9,6 @@ namespace Myapp
         {
             filters.Add(new HandleErrorAttribute());
         }
+
     }
 }
